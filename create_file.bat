@@ -1,0 +1,1 @@
+pyuic5 -x C:\GIT\PyQt5-apps\tracker.ui -o C:\GIT\PyQt5-apps\tracker.py
